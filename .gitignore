@@ -1,0 +1,8 @@
+file.log
+file.xml
+file.php
+file.txt
+
+*.log
+*.txt
+/dir
